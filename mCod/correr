@@ -1,0 +1,18 @@
+Esto lo copian y lo pegan directo en el planificador y les toma todos los comandos
+
+correr benchmark.cod
+correr corto.cod
+correr corto2.cod
+correr corto3.cod
+correr escribe.cod
+correr HyperIO.cod
+correr IO.cod
+correr MuyCorto.cod
+correr MuyLargo.cod
+correr TLB.cod
+correr cpu.cod
+correr io.cod
+correr localidad.cod
+correr mem.cod
+correr nosoy.cod
+correr planificador.cod

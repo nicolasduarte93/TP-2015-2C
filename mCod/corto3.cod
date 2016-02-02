@@ -1,0 +1,14 @@
+iniciar 2;
+leer 0;
+leer 1;
+escribir 0 "aaa";
+entrada-salida 1;
+entrada-salida 1;
+entrada-salida 1;
+entrada-salida 1;
+escribir 1 "bbb";
+escribir 0 "bbb";
+escribir 1 "aaa";
+leer 0;
+leer 1;
+finalizar;

@@ -1,0 +1,8 @@
+iniciar 4;
+leer 3;
+leer 1;
+entrada-salida 2;
+entrada-salida 1;
+escribir 2 "chau";
+escribir 3 "river";
+finalizar;
